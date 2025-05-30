@@ -58,9 +58,8 @@ The dashboard displays several important metrics:
 ## Usage
 
 1. Select a team from the dropdown menu
-2. Choose a season (2019-present)
-3. Click "Analyze Sentiment"
-4. View the sentiment trend chart and raw data
+2. Click "Analyze Sentiment"
+3. View the sentiment trend chart and raw data
 
 ## Technical Details
 
