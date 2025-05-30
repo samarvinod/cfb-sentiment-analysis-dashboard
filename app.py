@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from sentiment_utils import process_team_sentiment
+from sentiment_utilities import process_team_sentiment
 import plotly.express as px
 from datetime import datetime
 import numpy as np
